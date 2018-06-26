@@ -12,3 +12,9 @@ not about the programming language and more about which group of services do
 I need which should ultimately make life easier but can often make things
 more complicated.  The samples found in the repository attempt to help show
 examples that can be used within your project.
+
+## Feedback
+
+## Author
+
+Adam Scherer
